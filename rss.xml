@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[danielbeattie]]></title>
+        <description><![CDATA[danielbeattie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 16:50:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[intial-thoughts]]></title>
+            <description><![CDATA[<article><h1>intial-thoughts</h1><p>"How many years work is this?!" @xocs</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d23e9efb87d48960a0df84112ce8954737b2c62c.jpg"></article>]]></description>
+            <link>undefinedintial-thoughts/index.html</link>
+            <guid isPermaLink="false">1ec2c9c4-57a7-4d52-84c5-3a77254a2d9a</guid>
+            <pubDate>Tue, 22 Dec 2015 16:50:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
