@@ -1,19 +1,4 @@
-name: danielbeattie
-favicon: null
-layout_spectrum: 0.06943735247477889
 typography_spectrum: 0.8721280989702791
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.4461622459348291
   saturation: 0.5854496664833277
   rhythmicContrast: 0.037966264644637704
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.06943735247477889
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: danielbeattie
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Daniel Beattie
 purpose: []
